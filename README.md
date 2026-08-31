@@ -7,8 +7,7 @@ Emerging research suggests that the gut microbiome plays an important role in re
 <p align="center">
 <img width="617" height="633" alt="image" src="https://github.com/user-attachments/assets/4af5ed0f-0aa0-4396-8a32-b87e4acd4585" /> 
 </p>
-Image: (Shabani et al 2025)
-
+Image: [Shabani et al 2025] (https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2025.1516010/full)
 
 ## 2.	Problem Statement/Research objective(s)
 
@@ -75,3 +74,16 @@ Several opportunities were identified for future improvement:
 - Further stratify FecalCal results by diagnosis to identify bacteria that are uniquely associated with inflammation within each disease group.
 - Experiment with alternative deep learning architectures, including additional hidden layers, regularization methods, and hyperparameter tuning.
 - Explore correlations between gut microbiome composition and other inflammatory or metabolic disorders.
+
+### *References*
+
+- GeeksforGeeks. 2025. “How to Use K-Fold Cross-Validation in a Neural Network.” GeeksforGeeks. July 23, 2025. https://www.geeksforgeeks.org/deep-learning/how-to-use k-fold-cross-validation-in-a-neural-network/ 
+Hussain, Qasim. 2026. “Deep Metagenomics of the Human Gut Microbiome in IBD: A Multi-Omics Data Atlas.” GitHub. February, 2026. https://github.com/Qasim-Hussain-Code/Human_Gut_Microbiome_Atlas/tree/master/data 
+
+- Melmedu, Aberu. 2024. “Exploring the Gut-Inflammation Connection: How Digestive 
+Health Impacts Chronic Inflammation.” Journal of Inflammatory Bowel Diseases & Disorders. https://www.hilarispublisher.com/open-access/exploring-the-gutinflammation-connection-how-digestive-health-impacts-chronic-inflammation-112389.html
+
+- Shabani M, Ghoshehy A, Mottaghi AM, Chegini Z, Kerami A, Shariati A and Taati Moghadam M. 2025. The relationship between gut microbiome and human diseases: mechanisms, predisposing factors and potential intervention. Frontiers in Cellular and Infection Microbiology. May 5, 2025. 15:1516010. doi: 10.3389/fcimb.2025.1516010
+
+- Paukkonen I, Torronen EN, Lok J, Schwab U, El-Nezami H. The impact of intermittent fasting on gut microbiota: a systematic review of human studies. Frontiers in Nutrition. 2024. 12;11:1342787. doi: 10.3389/fnut.2024.1342787. PMID: 38410639; PMCID: PMC10894978.
+  
