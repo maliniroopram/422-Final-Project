@@ -79,7 +79,7 @@ Several opportunities were identified for future improvement:
 
 - GeeksforGeeks. 2025. “How to Use K-Fold Cross-Validation in a Neural Network.” GeeksforGeeks. July 23, 2025. https://www.geeksforgeeks.org/deep-learning/how-to-use k-fold-cross-validation-in-a-neural-network/ 
 
-- Hussain, Qasim. 2026. “Deep Metagenomics of the Human Gut Microbiome in IBD: A Multi-Omics Data Atlas.” GitHub. February, 2026. https://github.com/Qasim-Hussain-Code/Human_Gut_Microbiome_Atlas/tree/master/data 
+- Hussain, Qasim. 2026. “Deep Metagenomics of the Human Gut Microbiome in IBD: A Multi-Omics Data Atlas.” GitHub. https://github.com/Qasim-Hussain-Code/Human_Gut_Microbiome_Atlas/blob/master/README.md
 
 - Melmedu, Aberu. 2024. “Exploring the Gut-Inflammation Connection: How Digestive 
 Health Impacts Chronic Inflammation.” Journal of Inflammatory Bowel Diseases & Disorders. https://www.hilarispublisher.com/open-access/exploring-the-gutinflammation-connection-how-digestive-health-impacts-chronic-inflammation-112389.html
